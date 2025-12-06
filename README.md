@@ -1,13 +1,14 @@
 # 👋 Hey, I'm Liam Gustafsson  
 ### Software Engineer Student
 
-I'm a software engineer student with a strong interest in modern app development, scalable backend solutions and clean, maintainable code. I enjoy building products that solve real problems — especially within community, productivity and student life.
+I'm a software engineering student with a strong interest in modern app development, scalable backend architectures, and clean, maintainable code. I enjoy designing and building products that solve real problems and deliver meaningful user experiences.
 
 ---
 
 ## 🧠 Tech Stack  
 **Languages:** Python • TypeScript • C++  
-**Frameworks & Tools:** Flutter • React • Firebase  
+**Frameworks & Tools:** Flutter • React • Firebase • Docker • Scrum
+
 
 ---
 
@@ -33,8 +34,21 @@ The app lets students:
 ### 🔐 Hidden Gems  
 *Flutter + Firebase*
 
-A mobile experience built with speed, simplicity and scalability in mind.  
-Built fully in Flutter and Firebase, focusing on clean structure, smooth UI and practical real-world functionality.
+Hidden Gems is a mobile application designed to help users discover, save, and share unique locations “hidden gems” with friends.  
+The app centers around an interactive map where users can view their saved gems alongside discoveries shared by others in their network.
+
+Core features include:
+
+- Google authentication  
+- Saving and managing personal hidden gems  
+- Posting gems with title, description, location, and photos  
+- Option to post privately or share with friends  
+- Social interactions through likes, comments, and follows  
+- Exploring a map with all gems visualized in their real-world locations  
+
+The project focuses on clean architecture, responsive UI, and seamless integration with Firebase for authentication, data storage, and image handling.
+
+*Private repository.*
 
 ---
 
