@@ -53,8 +53,8 @@ The project focuses on clean architecture, responsive UI, and seamless integrati
 ---
 
 ## 📊 GitHub Stats  
-![Stats](https://github-readme-stats-eta-sepia.vercel.app/api?username=liaamg1&show_icons=true&hide_border=true)
-![Languages](https://github-readme-stats-eta-sepia.vercel.app/api/top-langs/?username=liaamg1&layout=compact&hide_border=true)
+![Profile Stats](https://img.shields.io/badge/GitHub_Stats-Unavailable_due_to_rate_limit-red)
+
 
 
 ---
