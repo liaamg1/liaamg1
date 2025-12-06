@@ -53,8 +53,8 @@ The project focuses on clean architecture, responsive UI, and seamless integrati
 ---
 
 ## 📊 GitHub Stats  
-![Stats](https://github-readme-stats-coral-six.vercel.app/api?username=liaamg1&show_icons=true&hide_border=true)
-![Languages](https://github-readme-stats-coral-six.vercel.app/api/top-langs/?username=liaamg1&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats-eta-sepia.vercel.app/api?username=liaamg1&show_icons=true&hide_border=true)
+![Languages](https://github-readme-stats-eta-sepia.vercel.app/api/top-langs/?username=liaamg1&layout=compact&hide_border=true)
 
 
 ---
