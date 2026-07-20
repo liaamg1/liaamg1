@@ -6,7 +6,7 @@ I'm a software engineering student with a strong interest in modern development,
 ---
 
 ## 🧠 Tech Stack  
-**Languages:** Python • TypeScript • C++ • C#
+**Languages:** Python • TypeScript • C++ • C#\
 **Frameworks & Tools:** Flutter • React • Firebase • Docker • Scrum • .NET • Vue
 
 ---
