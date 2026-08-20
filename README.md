@@ -10,8 +10,8 @@ I work with Python, C++, C#, .NET, Docker, Vue, and TypeScript. Right now, I’m
 
 ## 🧠 Tech Stack
 
-**Languages:** Python • C++ • C# • TypeScript
-**Frameworks & Tools:** .NET • Vue • Docker
+**Languages:** Python • C++ • C# • TypeScript \n
+**Frameworks & Tools:** .NET • Vue • Docker \n
 **Currently Learning:** Java • Spring Boot
 
 ---
