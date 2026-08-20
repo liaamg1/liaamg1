@@ -1,10 +1,10 @@
-# 👋 Hey, I'm Liam Gustafsson
+# Liam Gustafsson
 
 ### Software Engineering Student
 
-I’m a software engineering student who enjoys backend development and building reliable, maintainable applications. I’m especially interested in APIs, application architecture, and the systems that power modern software.
+I’m a software engineering student who enjoys backend development and discovering how things work behind the scenes. I like turning ideas into working applications, experimenting with new technologies, and improving my skills through hands-on projects.
 
-I work with several languages and technologies, including Python, C++, C#, .NET, Docker, Vue, and TypeScript. I’m currently expanding my backend skills by learning Java and Spring Boot.
+I work with Python, C++, C#, .NET, Docker, Vue, and TypeScript. Right now, I’m learning Java and Spring Boot to explore more ways of building backend applications.
 
 ---
 
